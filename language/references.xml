@@ -382,12 +382,12 @@ foo(bar());
     linkend="language.references.return">returning by reference</link>. 
      </para>
     </listitem>
-  </itemizedlist>
-  </para>
-  <para>
-  No other expressions should be passed by reference, as the
-  result is undefined. For example, the following examples of passing
-  by reference are invalid:
+   </itemizedlist>
+   </para>
+   <para>
+    No other expressions should be passed by reference, as the
+    result is undefined. For example, the following examples of passing
+    by reference are invalid:
     <informalexample>
      <programlisting role="php">
 <![CDATA[

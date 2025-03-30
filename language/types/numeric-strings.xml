@@ -13,7 +13,7 @@
 
  <informalexample>
   <programlisting>
-   <![CDATA[
+<![CDATA[
 WHITESPACES      \s*
 LNUM             [0-9]+
 DNUM             ([0-9]*[\.]{LNUM}) | ({LNUM}[\.][0-9]*)
